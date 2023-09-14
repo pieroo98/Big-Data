@@ -1,0 +1,7 @@
+it/polito/bigdata/spark/example/Station.class
+it/polito/bigdata/spark/example/SparkDriver.class
+it/polito/bigdata/spark/example/StationDayHourFull.class
+it/polito/bigdata/spark/example/Reading.class
+it/polito/bigdata/spark/example/StationDayHourCriticality.class
+it/polito/bigdata/spark/example/DateTool.class
+it/polito/bigdata/spark/example/FinalRecord.class
